@@ -1,0 +1,29 @@
+html{
+	scroll-behavior: smooth;
+}
+.vh-70{
+	min-height: 100vh;
+
+}
+h1{
+	 font-weight: 100;
+}
+.middle-content{
+	color: #6c757d;
+    font-size: 16px;
+    font-weight: 100;
+}
+.btn{
+	margin: 2px;
+}
+.thumbnail{
+	background-color: #F8F9FA;
+}
+.card{
+	height: 100%;
+	box-shadow: 0px 9px 20px 1px #0000002b;
+}
+.scroll{
+	color: #8DC360;
+	font-size: 50px;
+}
